@@ -3,9 +3,7 @@
  * 	a left child of any given node has a smaller key and a right child
  * 	of any given node has a larger key than the parent node.
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee
  * November 19, 2023
  */
 
