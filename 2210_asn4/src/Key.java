@@ -2,9 +2,7 @@
  * 	this class stores the key of a record. A key stores a label describing the type
  * 	of the object.
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee 
  * November 19, 2023
  */
 
