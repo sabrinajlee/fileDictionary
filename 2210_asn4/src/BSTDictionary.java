@@ -2,9 +2,7 @@
  * 	this class represents a dictionary that uses the BinarySearchClass as a data structure
  * 	to represent its data in a binary search tree
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee
  * November 19, 2023
  */
 
