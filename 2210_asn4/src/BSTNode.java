@@ -3,9 +3,7 @@
  * 	has no children, or it can have two children. A leaf can have a record or it may not.
  * 	The root is a BSTNode with no parent.
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee
  * November 19, 2023
  */
 
