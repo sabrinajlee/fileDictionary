@@ -2,9 +2,7 @@
  * 	this class stores the record of a BSTNode. A record can be null or
  * 	store data and a key.
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee
  * November 19, 2023
  */
 public class Record {
