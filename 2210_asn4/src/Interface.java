@@ -3,9 +3,7 @@
  * 	and inserted into a BSTDictionary object. the program continually prompts the user to input a command to perform
  * 	some action by retrieving or removing data from the dictionary. 
  * 
- * @author Sabrina Lee 251297577
- * CS2210A 001
- * Prof. Solis Oba
+ * @author Sabrina Lee
  * November 19, 2023
  */
 
